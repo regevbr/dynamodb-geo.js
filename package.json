@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-geo",
+  "name": "dynamodb-geo-bersaelor-test",
   "version": "0.4.1",
   "description": "A javascript port of awslabs/dynamodb-geo, for dynamodb geospatial querying",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "rh389/dynamodb-geo.js",
+  "repository": "Bersaelor/dynamodb-geo.js",
   "author": "Rob Hogan <github@rhogan.net>",
   "license": "Apache-2.0",
   "dependencies": {
@@ -22,13 +22,13 @@
     "@types/chai": "^4.0.0",
     "@types/mocha": "^2.2.41",
     "@types/node": "^7.0.27",
-    "aws-sdk": "^2.248.1",
+    "aws-sdk": "^2.766.0",
     "chai": "^4.0.1",
     "mocha": "^3.3.0",
     "ts-node": "^3.0.2",
     "typescript": "^2.3.4"
   },
   "peerDependencies": {
-    "aws-sdk": "^2.176.0"
+    "aws-sdk": "^2.766.0"
   }
 }
