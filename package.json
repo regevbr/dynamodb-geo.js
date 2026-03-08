@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-geo-regevbr",
+  "name": "dynamodb-geo-pruvonet",
   "version": "0.4.1",
   "description": "A javascript port of awslabs/dynamodb-geo, for dynamodb geospatial querying",
   "scripts": {
